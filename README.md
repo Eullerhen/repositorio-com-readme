@@ -1,5 +1,5 @@
 # Projeto com README
-um projeto de tesste com um aquirvo README ✔🙌
+um projeto de teste com um aquirvo README ✔🙌
 
 [<img src="Tela.gif" alt=" gif da tela inicial do projeto README">]
 
