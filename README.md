@@ -1,7 +1,7 @@
 # Projeto com README
 um projeto de teste com um aquirvo README ✔🙌
 
-[<img src="Tela.gif" alt=" gif da tela inicial do projeto README">]
+<img src="Tela.gif" alt=" gif da tela inicial do projeto README">
 
 ## Tecnologias utilizadas
 - HTML
